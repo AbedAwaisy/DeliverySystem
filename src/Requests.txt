@@ -1,0 +1,101 @@
+id	serviceType	serviceArea	distance	Time	Arrival
+100	Taxi	Jerusalem	69	2.8	18
+101	Taxi	Jerusalem	34	1.5	19
+102	Delivery	Tel Aviv	97	3.1	13
+103	Delivery	Jerusalem	86	0.7	9
+104	Delivery	Tel Aviv	108	1.6	17
+105	Delivery	Jerusalem	96	1.7	6
+106	Delivery	Tel Aviv	74	3.3	23
+107	Taxi	Jerusalem	109	0.7	8
+108	Delivery	Jerusalem	79	3.2	22
+109	Taxi	Tel Aviv	20	3	20
+110	Delivery	Jerusalem	26	2	3
+111	Delivery	Jerusalem	31	1.5	5
+112	Delivery	Jerusalem	64	1.7	14
+113	Taxi	Tel Aviv	5	2.2	20
+114	Delivery	Jerusalem	86	2.3	4
+115	Delivery	Jerusalem	110	1.9	15
+116	Delivery	Tel Aviv	67	2.8	13
+117	Taxi	Jerusalem	93	1.4	15
+118	Taxi	Jerusalem	51	2.5	24
+119	Delivery	Jerusalem	8	3.2	5
+120	Delivery	Tel Aviv	50	1.9	11
+121	Delivery	Tel Aviv	48	2.5	8
+122	Taxi	Tel Aviv	105	3.3	20
+123	Taxi	Jerusalem	32	1.4	11
+124	Taxi	Jerusalem	62	1.6	21
+125	Delivery	Jerusalem	91	1.6	9
+126	Delivery	Tel Aviv	75	2.8	14
+127	Taxi	Jerusalem	76	0.7	14
+128	Delivery	Tel Aviv	95	1.2	12
+129	Taxi	Jerusalem	108	2.7	23
+130	Taxi	Jerusalem	30	1.5	14
+131	Taxi	Jerusalem	38	1.6	24
+132	Taxi	Jerusalem	4	3.1	18
+133	Delivery	Jerusalem	11	1.8	18
+134	Taxi	Tel Aviv	102	2.9	4
+135	Delivery	Jerusalem	10	0.9	24
+136	Taxi	Tel Aviv	56	2	16
+137	Taxi	Jerusalem	95	2.3	16
+138	Delivery	Tel Aviv	55	2.1	4
+139	Taxi	Tel Aviv	8	3.5	19
+140	Delivery	Tel Aviv	95	2.9	10
+141	Taxi	Tel Aviv	71	3.1	16
+142	Taxi	Tel Aviv	51	3.2	19
+143	Delivery	Tel Aviv	51	1.9	15
+144	Delivery	Jerusalem	19	2.2	5
+145	Taxi	Jerusalem	41	1.5	6
+146	Taxi	Jerusalem	62	2.2	5
+147	Taxi	Tel Aviv	33	2.2	19
+148	Taxi	Tel Aviv	13	2.4	20
+149	Delivery	Tel Aviv	95	2.6	11
+150	Taxi	Tel Aviv	60	0.8	11
+151	Taxi	Jerusalem	4	3	17
+152	Delivery	Jerusalem	63	3.4	22
+153	Delivery	Jerusalem	8	3.4	11
+154	Taxi	Tel Aviv	108	0.7	4
+155	Delivery	Jerusalem	39	1.7	17
+156	Taxi	Jerusalem	78	2.1	19
+157	Taxi	Jerusalem	61	3.2	13
+158	Delivery	Jerusalem	31	3	11
+159	Delivery	Jerusalem	39	2	8
+160	Delivery	Tel Aviv	104	1	6
+161	Delivery	Jerusalem	80	1.8	23
+162	Delivery	Tel Aviv	32	1	12
+163	Delivery	Jerusalem	24	2.1	20
+164	Delivery	Tel Aviv	47	2.4	19
+165	Delivery	Tel Aviv	88	1.2	5
+166	Delivery	Jerusalem	61	2.5	10
+167	Delivery	Tel Aviv	65	3.5	5
+168	Taxi	Tel Aviv	13	1	7
+169	Taxi	Jerusalem	78	2.7	13
+170	Taxi	Tel Aviv	59	1.2	17
+171	Taxi	Tel Aviv	81	1.6	8
+172	Taxi	Tel Aviv	95	2.3	13
+173	Delivery	Jerusalem	42	1.6	17
+174	Delivery	Tel Aviv	15	2.8	10
+175	Taxi	Jerusalem	19	1.4	23
+176	Delivery	Jerusalem	46	0.6	23
+177	Taxi	Jerusalem	90	2.3	17
+178	Delivery	Jerusalem	34	2	6
+179	Taxi	Tel Aviv	53	1.6	10
+180	Taxi	Jerusalem	19	1.6	15
+181	Taxi	Jerusalem	97	2.1	17
+182	Delivery	Jerusalem	49	0.7	10
+183	Taxi	Jerusalem	81	2.3	24
+184	Taxi	Tel Aviv	24	2.8	11
+185	Delivery	Tel Aviv	98	1.7	6
+186	Taxi	Tel Aviv	21	0.9	4
+187	Delivery	Tel Aviv	99	1.7	15
+188	Taxi	Tel Aviv	28	3	16
+189	Taxi	Tel Aviv	31	0.7	5
+190	Taxi	Tel Aviv	46	2.7	4
+191	Delivery	Jerusalem	50	1.6	3
+192	Delivery	Tel Aviv	21	2.6	15
+193	Taxi	Tel Aviv	66	1.6	7
+194	Taxi	Jerusalem	13	2.1	23
+195	Taxi	Jerusalem	23	2.3	18
+196	Delivery	Tel Aviv	92	2.2	18
+197	Taxi	Jerusalem	32	0.8	18
+198	Taxi	Tel Aviv	109	2.7	23
+199	Taxi	Jerusalem	103	1.7	10
