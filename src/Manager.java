@@ -115,7 +115,7 @@ public class Manager extends Thread {
         Vehicle vehicle = vehicles.get(serviceCall.getServiceType()).remove(0);
         Thread.sleep(3000);
         infoSys.insert(serviceCall, vehicle);
-        System.out.println("New Special Service Call "+ serviceCall.getTrackingNumber() +" Arrived");
+        System.out.println("New Special Service Call "+ serviceCall.getTrackingNumber() +" Arrived !");
         // Update request status or perform any other required operations
 //        doneRequests++;
 //        isDone = doneRequests < allRequests;
